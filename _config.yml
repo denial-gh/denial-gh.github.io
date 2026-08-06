@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "default" 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexandra E. Jones-Kellett, Ph.D."
+title                    : "Website Titlw"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Alexandra E. Jones-Kellett, Ph.D."
-description              : "Professional website"
-url                      : "https://lexi-jones.github.io"
+name                     : "Name"
+description              : "Description"
+url                      : "https://denial-gh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "lexi-jones/lexi-jones.github.io"
+repository               : "denial-gh/denial-gh.github.io"
 teaser                   : #"/assets/images/portrait.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -104,52 +104,27 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lexi Jones-Kellett"
+  name             : "John Website"
   avatar           : "/assets/images/portrait.png"
-  bio              : "Oceanography Postdoctoral Researcher"
-  location         : "Honolulu, HI, USA"
-  email            : aejk@alum.mit.edu
+  bio              : "Look at this sick bio"
+  location         : "Right, Behind, YOU"
+  email            : denial.writes@gmail.com
   links:
  #   - label: "Email"
  #     icon: "fas fa-fw fa-envelope-square"
  #     url: "aejk@alum.mit.edu"
-    - label: "CV"
-      icon: "far fa-fw fa-file-pdf"
-      url: "/assets/files/CV.pdf"
-    - label: "Google Scholar"
-      icon: "fas fa-brands fa-google-scholar" 
-      url: "https://scholar.google.com/citations?user=mVTgdeIAAAAJ&hl=en"
-    - label: "ORCiD"
-      icon: "fab fa-brands fa-orcid"
-      url: "https://orcid.org/0000-0002-1727-2219"
-    - label: "ResearchGate"
-      icon: "fab fa-brands fa-researchgate"
-      url: "https://www.researchgate.net/profile/Alexandra-Jones-Kellett"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/alexandra-jones-kellett/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/lexi-jones"
+      url: "https://github.com/denial-gh"
+
+      
 
 # Site Footer
 footer:
   links:
-    - label: "Google Scholar"
-      icon: "fab fa-brands fa-google-scholar" 
-      url: "https://scholar.google.com/citations?user=mVTgdeIAAAAJ&hl=en"
-    - label: "ORCiD"
-      icon: "fab fa-brands fa-orcid"
-      url: "https://orcid.org/0000-0002-1727-2219"
-    - label: "ResearchGate"
-      icon: "fab fa-brands fa-researchgate"
-      url: "https://www.researchgate.net/profile/Alexandra-Jones-Kellett"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/alexandra-jones-kellett/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/lexi-jones"
+      url: "https://github.com/denial-gh"
 
 # Reading Files
 include:
