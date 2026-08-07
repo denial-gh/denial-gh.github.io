@@ -19,10 +19,10 @@ At first glance, scientific evidence seems to support this claim. Numerous studi
 Beyond lab studies, real world trends can also be used to assess whether video games contribute to violent behaviour. Over the past few decades, the video game industry has grown to be the largest entertainment industry, generating more revenue than music and film industries. Gaming has become so large, in fact, that approximately 212 million Americans play video games at least once a week, roughly two thirds of the U.S. population. If violent video games were a cause of violent crime, then we would expect with their increasing popularity there would also be a rise in crime.
 
 <figure>
-  <img src="..assets/images/2026-08-07-video-game-violence/crime-games-graph.png" alt="Trends in Global Video Game Revenue and U.S. Violent Crime">
+  <img src="assets/images/2026-08-07-video-game-violence/crime-games-graph.png" alt="Trends in Global Video Game Revenue and U.S. Violent Crime">
 </figure>
 
-*Figure 1. Global video game industry revenue (USD billions) and the estimated U.S. violent crime rate per 100,000 people between 1979 and 2022. *
+*Figure 1. Global video game industry revenue (USD billions) and the estimated U.S. violent crime rate per 100,000 people between 1979 and 2022.*
 
 (Although Figure 1 compares global game industry data with U.S. crime data, the trends still provide useful information about how crime changed as the gaming industry grew.) Figure 1 shows that violent crime in the U.S. decreased between the early 90s and early 2010s, while the video game industry steadily increases in this same period. Even in the late 2010s and early 2020s when the video game industry grew the most, crime remained relatively constant. In the 80s, however, we can see the scale of the gaming industry and crime increase and decrease at similar times, while after the 90s they follow opposite trends. The relationship between both metrics being inconsistent over time suggests that there is not a simple cause-and-effect connection between the two. School shootings are often mentioned in discussions around violent video games. However, analyses of school shooters suggest that only around 20% of perpetrators showed a particular interest in violent video games, a value lower than that observed in the general population. These trends provide little support to the idea that video games are a major contributor to violent behaviour, and implies that the causes of violence are more complex than one piece of entertainment.
 
@@ -35,43 +35,3 @@ Research into the causation of violent behaviour has come to one major conclusio
 Much of the worry about violence in media is that players, particularly young children, will see violent acts and recreate them in real life. It is for this reason that video game age ratings exist, outlining a game’s content and the age it is recommended for. Video games such as Grand Theft Auto 5 are rated 18+, as they are intended to be played exclusively by adults, while video games with broader audiences get lower age ratings, such as Minecraft which is rated 7+. Violent video games are often blamed for causing children to be violent, even though they are specifically rated as not suitable for children. This suggests that the issue is not simply in the content of these games, but on whether parents and retailers will follow age ratings. This is a problem for age ratings, as in many countries age ratings are recommendations and not legal barriers,
 
 So, do video games cause violence? While they can contribute to heightened short-term aggression, there is little evidence to suggest that they make people more likely to commit acts of violence. The distinction between aggression and violence is pivotal and often ignored in this discussion. Neither laboratory data nor real-world crime trends provide convincing evidence of a causal relationship between video games and violent behaviour. Furthermore, concerns about the effect on children are addressed by age ratings, which are put in place to safeguard them from being exposed to content intended for mature audiences. The continued focus on video games mirrors the scrutiny previously directed at other forms of entertainment during past cycles of moral panic. Ultimately, the question itself oversimplifies violence by attempting to attribute a complex, multi-causal problem to a single form of entertainment. 
-
-
-
-_**References**_
-
-*American Psychological Association. (2015, August 13). Apa Review Confirms Link Between Playing Violent Video Games and Aggression. Https://Www.Apa.Org. https://www.apa.org/news/press/releases/2015/08/violent-video-games*  
-
-*American Psychological Association. (2020, March 3). Apa reaffirms position on violent video games and violent behavior. American Psychological Association. https://www.apa.org/news/press/releases/2020/03/violent-video-games-behavior*  
-
-*Arora, K. (2023, November 17). The Gaming Industry: A Behemoth with Unprecedented Global Reach. Forbes. https://www.forbes.com/councils/forbesagencycouncil/2023/11/17/the-gaming-industry-a-behemoth-with-unprecedented-global-reach/*  
-
-*BCcampus. (2014). Defining Aggression – Principles of Social Psychology – 1st International Edition. In Opentextbc.ca. https://opentextbc.ca/socialpsychology/chapter/defining-aggression/*  
-
-*Blocked. (2024). In Wordpress.com. https://vinylwritermusic.wordpress.com/2020/10/26/fear-of-music-how-satanic-panic-shaped-music-culture-in-the-1980s-and-beyond/*  
-
-*Elson, M., Mohseni, M. R., Breuer, J., Scharkow, M., & Quandt, T. (2014). Press CRTT to measure aggressive behavior: The Unstandardized use of the competitive reaction time task in aggression research. Psychological Assessment, 26(2), 419–432. https://doi.org/10.1037/a0035569*  
-
-*Entertainment Software Association. (n.d.). Data & Insights. In the ESA. Retrieved https://www.theesa.com/data-insights/*  
-
-*Ferguson, C., & Faye, C. (2018). A History of Panic Over Entertainment Technology. In Behavioral Scientist. https://behavioralscientist.org/history-panic-entertainment-technology/*  
-
-*Hasan, Y., Bègue, L., Scharkow, M., & Bushman, B. J. (2013). The more you play, the more aggressive you become: A long-term experimental study of cumulative violent video game effects on hostile expectations and aggressive behavior. Journal of Experimental Social Psychology, 49(2), 224–227. https://doi.org/10.1016/j.jesp.2012.10.016*  
-
-*Khor, I.-W. (2024). Psychological causes and effects of violence | Religion and Philosophy | Research Starters | EBSCO Research. Ebsco. https://www.ebsco.com/research-starters/religion-and-philosophy/psychological-causes-and-effects-violence#research-starter-title*  
-
-*PEGI. (2020). Home | Pegi Public Site. In Pegi.info. https://pegi.info*  
-
-*Pelham Smithers Associates. (2017). Pelham Smithers Associates - Japanese Equities Analysis. In Pelham Smithers. https://www.pelhamsmithers.com/*  
-
-*Ritchie, H., & Spooner, F. (2026). How Have Crime Rates in the United States Changed Over the Last 50 Years? In Our World in Data. https://ourworldindata.org/us-crime-rates*  
-
-*Seduction of the Innocent. (2023). In Wikipedia. https://en.wikipedia.org/wiki/Seduction_of_the_Innocent*  
-
-*Timm, J. C. (2019). Fact Check: Trump Suggests Video Games to Blame for Mass Shootings. In NBC News. NBC News. https://www.nbcnews.com/politics/donald-trump/fact-check-trump-suggests-video-games-blame-mass-shootings-n1039411*  
-
-*Violence | behaviour. (n.d.). In Encyclopedia Britannica. Retrieved July 30, 2026, from https://www.britannica.com/topic/violence#ref311510*  
-
-*Werner, A. (2018). 80 percent of mass shooters showed no interest in video games, researcher says. In Cbsnews.com. https://www.cbsnews.com/news/80-percent-of-mass-shooters-showed-no-interest-in-video-games-researcher-says/*
-
-*Wikipedia Contributors. (2019). Dungeons & Dragons controversies. In Wikipedia. Wikimedia Foundation. https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_controversies*  
