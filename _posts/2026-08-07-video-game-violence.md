@@ -19,7 +19,7 @@ At first glance, scientific evidence seems to support this claim. Numerous studi
 Beyond lab studies, real world trends can also be used to assess whether video games contribute to violent behaviour. Over the past few decades, the video game industry has grown to be the largest entertainment industry, generating more revenue than music and film industries. Gaming has become so large, in fact, that approximately 212 million Americans play video games at least once a week, roughly two thirds of the U.S. population. If violent video games were a cause of violent crime, then we would expect with their increasing popularity there would also be a rise in crime.
 
 <figure>
-  <img src="assets/images/2026-08-07-video-game-violence/crime-games-graph.png" alt="Trends in Global Video Game Revenue and U.S. Violent Crime">
+  <img src="..assets/images/2026-08-07-video-game-violence/crime-games-graph.png" alt="Trends in Global Video Game Revenue and U.S. Violent Crime">
 </figure>
 
 *Figure 1. Global video game industry revenue (USD billions) and the estimated U.S. violent crime rate per 100,000 people between 1979 and 2022.*
