@@ -2,9 +2,3 @@
 main:
   - title: "About"
     url: /
-  - title: "Research"
-    url: /research/
-  - title: "Gallery"
-    url: /gallery/
-  - title: "Posts"
-    url: /posts/
