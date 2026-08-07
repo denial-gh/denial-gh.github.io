@@ -7,7 +7,7 @@ header:
   teaser: "../assets/images/2024-03-09-website-creation/teaser_githubpages.png"
 ---
 
-*The following essay was written for a school essay competition, so it may be a bit weird. The main audience is people who know extremely little about video games. Still decided to upload it though* ¯\_(ツ)_/¯ 
+*The following essay was written for a school essay competition, so it may be a bit weird. The main audience is people who know extremely little about video games. Still decided to upload it though* `¯\_(ツ)_/¯`
 
 
 Throughout history, the newest forms of entertainment have been repeatedly blamed for corrupting our youth. Books, comic books, music, television, table-top games and most recently, video games have been under fire for containing content alleged to encourage the youngest generation to commit immoral and violent acts. With the present subject of this scrutiny being video games, it would seem appropriate to ask whether video games cause violence. However, several assumptions are usually made when discussing this topic, such as believing video games always containing violent content, using violence and aggression as interchangeable terms, and that complex psychological issues can be explained by one form of entertainment. This essay argues that while violent video games can contribute to heightened short-term aggression, there is minimal evidence they directly lead to acts of real-life violence, and that the question being asked oversimplifies the causes of violent behaviour.
