@@ -4,7 +4,7 @@ date: 2026-08-07
 excerpt: "7 August, 2026"
 layout: single
 header:
-  teaser: "../assets/images/2024-03-09-website-creation/teaser_githubpages.png"
+  teaser: "../assets/images/2026-08-07-video-game-violence/COD.png"
 ---
 
 *The following essay was written for a school essay competition, so it may be a bit weird. The main audience is people who know extremely little about video games. Still decided to upload it though* `¯\_(ツ)_/¯`
